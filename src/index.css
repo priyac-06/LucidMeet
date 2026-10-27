@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #0f1115;
+  color: #fff;
+  font-family: system-ui, sans-serif;
+}
+button {
+  padding: 8px 14px;
+  margin-right: 8px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background: #1e232b;
+  color: #fff;
+  cursor: pointer;
+}
+button:hover {
+  background: #2a313c;
+}
